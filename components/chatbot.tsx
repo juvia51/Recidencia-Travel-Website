@@ -1,8 +1,6 @@
 "use client"
 
 export default function Chatbot() {
-  const [isOpen, setIsOpen] = useState(false);
-
   return (
     <>
     <script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
