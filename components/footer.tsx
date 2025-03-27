@@ -77,6 +77,7 @@ export default function Footer() {
               Terms of Service
             </Link>
           </p>
+          <p> Mary Julia Celine R. Ebio • BSIT 3</p>
         </div>
       </div>
     </footer>
